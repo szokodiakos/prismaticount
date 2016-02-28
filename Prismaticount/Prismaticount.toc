@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Prismaticount
+## Version: 1.0.0
+## Notes: Sums the damage of your Prismatic Crystal
+## Author: szokodiakos
+
+Prismaticount.lua
